@@ -16,6 +16,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ### 🔬 Check other projects
  [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)
  
+ ## Status and progress
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diusval&layout=compact)](https://github.com/diusval/github-readme-stats)
 
 ![diusval github stats](https://github-readme-stats.vercel.app/api?username=diusval&show_icons=true&hide_border=true)
