@@ -1,11 +1,19 @@
-# Hey🤙
+# Welcome🥽 
 
+### About me👨🏻‍💻
 My name is Diusval Gonçalves Pinheiro
 
-I'm a system analyst and I've been studying Front-End developer since 2020.
+I'm 19 years old and I'm in the 4th period of the Information System course, studying Front-End Developer since 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 #### "let's go to the next level 👨🏼‍💻 🧠"
-[
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/diusval-gonçalves-pinheiro-4837b0206/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=Instagram&logoColor=black&link=https://www.instagram.com/diusval/?hl=pt-br)](https://www.instagram.com/diusval/?hl=pt-br) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/diusval](https://codepen.io/diusval))](https://codepen.io/diusval)
+
+## 🔭 My profiles
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f9f6f6?style=for-the-badge&logo=LinkedIn&logoColor=0052CC)](https://www.linkedin.com/in/diusval-gonçalves-pinheiro-4837b0206/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-f9f6f6?style=for-the-badge&logo=Instagram&logoColor=#3f729b&link=https://www.instagram.com/diusval/?hl=pt-br)](https://www.instagram.com/diusval/?hl=pt-br) 
+### 🔬 Check other projects
+ [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)
+
+![diusval github stats](https://github-readme-stats.vercel.app/api?username=diusval&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diusval&layout=compact)](https://github.com/diusval/github-readme-stats)
