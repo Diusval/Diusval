@@ -2,21 +2,38 @@
 
 ### About me👨🏻‍💻
 My name is Diusval Gonçalves Pinheiro
-
 I'm 19 years old and I'm in the 4th period of the Information System course, studying Front-End Developer since 2020.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 #### "let's go to the next level 👨🏼‍💻 🧠"
+## Status and progress
+ <div>
+  <a href="https://github.com/Diusval">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diusval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diusval&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-## 🔭 My profiles
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-f9f6f6?style=for-the-badge&logo=LinkedIn&logoColor=0052CC)](https://www.linkedin.com/in/diusval-gonçalves-pinheiro-4837b0206/)
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat-f9f9f9?style=for-the-badge&logo=American-Airlines&logoColor=9266CC)](https://app.rocketseat.com.br/me/diusval)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-f9f6f6?style=for-the-badge&logo=Instagram&logoColor=#3f729b&link=https://www.instagram.com/diusval/?hl=pt-br)](https://www.instagram.com/diusval/?hl=pt-br) 
-### 🔬 Check other projects
- [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)
+<!-- in your body -->
+<i class="devicon-linux-plain colored"></i>
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Diusval-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+  
+ ## 🔭 My profiles
+<div> 
+  <a href="https://instagram.com/Diusval" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diusval.profissional@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diusval-gon%C3%A7alves-pinheiro-4837b0206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ## Status and progress
- ![diusval github stats](https://github-readme-stats.vercel.app/api?username=diusval&show_icons=true&hide_border=true)
+  ![Snake animation](https://github.com/Diusval/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diusval&layout=compact)](https://github.com/diusval/github-readme-stats)
+</div>
