@@ -2,9 +2,8 @@
 <h3 align="center">Front-End Developer from Brazil</h3>
 
 ------------------------------------------------------
-<h3 align="left">👾 About Me</h3>
+<h3 align="left"> ###👾 About Me👨</h3>
 
-### About me👨🏻‍💻
 My name is Diusval Gonçalves Pinheiro
 
 I'm 20 years old and I'm in the 5th period of the Information System course.
