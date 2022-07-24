@@ -27,7 +27,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <h3 align="left">🧩 Languages and Tools:</h3>
 
-<p align="center" alt="Diusval" height="30" width="40">
+<p align="left" alt="Diusval" height="30" width="40">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git" />
   </a>
