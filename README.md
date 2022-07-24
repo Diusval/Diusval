@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer from Brazil</h3>
 
 ------------------------------------------------------
-<h3 align="left"> ###👾 About Me👨</h3>
+<h3 align="left">👾 About Me👨🏻‍💻</h3>
 
 My name is Diusval Gonçalves Pinheiro
 
