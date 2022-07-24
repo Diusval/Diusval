@@ -27,9 +27,11 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <h3 align="left">🧩 Languages and Tools:</h3>
 
-<div>
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=[git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git)" />
+  </a>
+</p>
 
 <div>
   <a href="https://github.com/Diusval">
