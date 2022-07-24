@@ -4,24 +4,20 @@
 ------------------------------------------------------
 <h3 align="left">👾 About Me</h3>
 
+### About me👨🏻‍💻
 My name is Diusval Gonçalves Pinheiro
 
-I'm 20 years old and I'm in the 6th period of the Information System course.
+I'm 20 years old and I'm in the 5th period of the Information System course.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
-
-#### "let's go to the next level 👨🏼‍💻 🧠"
-
-- 👩🏻‍💻 I’m a **Web Developer**
-
-- 📍 I am currently learning **ReactJS** and **JAVA**
-
-- 📫 How to reach me **diusval.profissional@hotmail.com**
 
 ------------------------------------------------------
 <h3 align="left">🎯 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diusval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+
+<a href="diusval.profissional@hotmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hotmail-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a
+
 <a href="https://www.instagram.com/diusval/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="claradinato" height="30" width="40" /></a>
 </p>
 
