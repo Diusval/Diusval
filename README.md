@@ -4,6 +4,14 @@
 ------------------------------------------------------
 <h3 align="left">👾 About Me</h3>
 
+My name is Diusval Gonçalves Pinheiro
+
+I'm 20 years old and I'm in the 5th period of the Information System course, studying Front-End Developer since 2020.
+
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+#### "let's go to the next level 👨🏼‍💻 🧠"
+
 - 👩🏻‍💻 I’m a **Web Developer**
 
 - 📍 I am currently learning **ReactJS** and **JAVA**
