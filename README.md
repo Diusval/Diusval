@@ -13,7 +13,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 #### "let's go to the next level 👨🏻‍💻 🧠"
 ------------------------------------------------------
 
-## 🔭 My profiles
+### 🔭 My profiles
 
   <a href="https://instagram.com/Diusval" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diusval.profissional@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
