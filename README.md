@@ -32,5 +32,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ------------------------------------------------------
 ### 🔭 My profiles
   <a href="https://www.linkedin.com/in/diusval-gon%C3%A7alves-pinheiro-4837b0206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/Diusval" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diusval.profissional@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
