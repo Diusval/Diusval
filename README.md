@@ -24,8 +24,10 @@ I'm passionate about solving problems and learning. Always open to new challenge
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diusval&layout=compact&langs_count=7&theme=dark"/>
 </div>
 ------------------------------------------------------
+  
 ### 🔬 Check other projects
 [![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)
+  
 ------------------------------------------------------
 ### 🔭 My profiles
 
