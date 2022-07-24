@@ -30,6 +30,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git)](https://skillicons.dev)
 
-<a href="https://github.com/dinatoclara22">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diusval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diusval&layout=compact&langs_count=7&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/Diusval">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Diusval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diusval&layout=compact&langs_count=7&theme=dark"/>
+</div>
