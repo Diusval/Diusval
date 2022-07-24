@@ -29,7 +29,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git)" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git" />
   </a>
 </p>
 
