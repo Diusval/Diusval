@@ -10,7 +10,7 @@ I'm 20 years old and I'm in the 5th period of the Information System course.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-#### "let's go to the next level 👨🏼‍💻 🧠"
+#### "let's go to the next level 👨🏻‍💻 🧠"
 ------------------------------------------------------
 <h3 align="left">🎯 Connect with me:</h3>
 <p align="left">
