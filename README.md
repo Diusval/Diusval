@@ -23,6 +23,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Diusval&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diusval&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 ------------------------------------------------------
   
 ### 🔬 Check other projects
