@@ -14,7 +14,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <p align="left" alt="Diusval" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,nodejs,figma,photoshop,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,sass,python,java,figma,photoshop,git" />
   </a>
 </p>
 
