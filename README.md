@@ -3,21 +3,7 @@
 
 ------------------------------------------------------
 <h3 align="left">👾 About Me👨🏻‍💻</h3>
-```javascript
-const express = require('express')
-const app = express()
 
-const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
-
-app.get('/', (req, res) =>{
-  return res.send(webDeveloper)
-}),
-
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
-
-```
 My name is Diusval Gonçalves Pinheiro
 I'm 20 years old and I'm in the 6th period of the Information System course.
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
