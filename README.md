@@ -26,7 +26,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 ------------------------------------------------------
   
 ### 🔬 Check other projects
-[![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)
+<a href="[![CodePen](https://img.shields.io/badge/-CodePen-f9f6f6?style=for-the-badge&logo=CodePen&logoColor=000)](https://codepen.io/diusval)">
   
 ------------------------------------------------------
 ### 🔭 My profiles
